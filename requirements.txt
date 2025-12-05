@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+prophet
+scikit-learn
+wordcloud
+matplotlib
+fpdf
+openpyxl
+xlsxwriter
